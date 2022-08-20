@@ -23,6 +23,24 @@ Link to [story](https://public.tableau.com/app/profile/stella3892/viz/August2019
 ![image](https://user-images.githubusercontent.com/31219195/185765531-307f1295-f44c-4729-bf8d-ec08b95ba380.png)
 - The majority percentage of CitiBike users identify as male.
 
+#### Deliverables
+Deliverable 1:
+
+-Convert tripduration to a datetime datatype with correct time format
+
+-Export dataframe to new file without the index column
+
+Deliverable 2: 
+
+All individual graphs are filterable by category or other dimension.
+
+- ![image](https://user-images.githubusercontent.com/31219195/185767505-aa4f2fdd-d765-4826-a325-facf822d6a00.png)
+- ![image](https://user-images.githubusercontent.com/31219195/185767508-d39a6cbf-8d73-4d92-ae92-1734e0437e25.png)
+- ![image](https://user-images.githubusercontent.com/31219195/185767520-575a6288-d4f5-4608-90d7-bb52b1bd9479.png)
+- ![image](https://user-images.githubusercontent.com/31219195/185767525-200b1abc-a5ce-48d9-92f4-46ba54fa02a4.png)
+
+Deliverable 3: See [Tableau](https://public.tableau.com/app/profile/stella3892/viz/August2019NYCCitibikeAnalysis/CitibikeAugustSummary?publish=yes) story
+
 #### Notes
 CitiBike would likely be most successful in urban cities or more densely populated areas.
 CitiBike would likely succeed at catering to work commuters or individuals looking for reliable short-distance travel.
